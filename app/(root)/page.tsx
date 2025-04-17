@@ -1,5 +1,5 @@
-import { Button } from "@/components/ui/button";
+const Homepage = async () => {
+  return <>Store homepage</>;
+};
 
-export default function Homepage() {
-  return <></>;
-}
+export default Homepage;
